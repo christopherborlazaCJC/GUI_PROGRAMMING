@@ -10,7 +10,7 @@ import java.io.FileReader;
 
 /**
  *
- * @author Student
+ * @author Christopher
  */
 public class ViewDiaries extends javax.swing.JFrame {
 
