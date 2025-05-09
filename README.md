@@ -2,7 +2,7 @@
 
 ## My submission for GUI Programming.
 
-Images of working code below:
+Images of code below:
 ![Screenshot 2025-05-09 231445](https://github.com/user-attachments/assets/5d0e52f2-dc75-4396-94a4-fdb2d5edf1c2)
 ![Screenshot 2025-05-09 231534](https://github.com/user-attachments/assets/646829d9-6931-44d7-9d0d-ee20e1851684)
 ![Screenshot 2025-05-09 231909](https://github.com/user-attachments/assets/a1584b91-746f-4745-bb08-f29973a1a723)
