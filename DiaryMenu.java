@@ -8,7 +8,7 @@ import java.awt.Color;
 
 /**
  *
- * @author Student
+ * @author Christopher
  */
 public class DiaryMenu extends javax.swing.JFrame {
 
