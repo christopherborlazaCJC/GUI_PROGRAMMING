@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Student
+ * @author Christopher
  */
 public class NewDiary extends javax.swing.JFrame {
 
