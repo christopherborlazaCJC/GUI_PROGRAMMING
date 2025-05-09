@@ -1,5 +1,4 @@
 # GUI_PROGRAMMING
-# GUI_Handling
 
 ## My submission for GUI Programming.
 
